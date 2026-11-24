@@ -6,7 +6,7 @@ Founding engineer on a greenfield partner platform - REST, GraphQL and async API
 
 Before LEGO: Qlik (Go microservices and React micro-frontends in a multi-tenant SaaS), Maersk, Netcompany and Axis. M.Sc. in Computer Science and Engineering from Lund University, specialising in network and security.
 
-**Work with:** AWS serverless · Go · TypeScript · Python · PostgreSQL/Aurora · Databricks · Pulumi/CloudFormation · event-driven architecture · ADRs
+**Work with:** AWS solution architecture (serverless-first) · Go · TypeScript · Python · PostgreSQL/Aurora · Databricks · Pulumi/CloudFormation · event-driven architecture · ADRs
 
 **Certified:** [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/29b8d2d9-1c9e-4f1a-aa48-2dd25c233826) (2026)
 
