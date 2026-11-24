@@ -8,6 +8,8 @@ Before LEGO: Qlik (Go microservices and React micro-frontends in a multi-tenant 
 
 **Work with:** AWS serverless · Go · TypeScript · Python · PostgreSQL/Aurora · Databricks · Pulumi/CloudFormation · event-driven architecture · ADRs
 
+**Certified:** [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/29b8d2d9-1c9e-4f1a-aa48-2dd25c233826) (2026)
+
 #### On here
 
 - [real-time-lakehouse-platform](https://github.com/EmilAhlberg/real-time-lakehouse-platform) - medallion lakehouse on Databricks + AWS, built ADR-first: streaming + batch ingest, dbt, Great Expectations, MLflow, Terraform
