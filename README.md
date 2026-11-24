@@ -4,7 +4,7 @@ Senior Software Engineer at the LEGO Group, based in Lund, Sweden.
 
 Founding engineer on a greenfield partner platform - REST, GraphQL and async APIs on serverless AWS, serving customer, store and contact data to 20+ product teams. Most of my time goes into domain modeling, service boundaries, event contracts and data ownership, plus the engineering standards that let many teams build on one platform.
 
-Before LEGO: Qlik (Go microservices and React micro-frontends in a multi-tenant SaaS), Maersk, Netcompany and Axis. M.Sc. in Computer Science and Engineering from Lund University, specialising in network and security.
+Before LEGO: Qlik (Go microservices and React micro-frontends in a multi-tenant SaaS), Maersk, Netcompany and Axis. M.Sc. in Computer Science and Engineering from Lund University, specialising in network and security, with a [thesis on data-driven feature development and A/B testing](https://lup.lub.lu.se/student-papers/record/9024937) carried out at Axis.
 
 **Work with:** AWS solution architecture · Go · TypeScript · PostgreSQL/Aurora · Databricks · Pulumi/CloudFormation · event-driven architecture · ADRs
 
