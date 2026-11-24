@@ -14,7 +14,7 @@ Before LEGO: Qlik (Go microservices and React micro-frontends in a multi-tenant 
 
 - [real-time-lakehouse-platform](https://github.com/EmilAhlberg/real-time-lakehouse-platform) - medallion lakehouse on Databricks + AWS, built ADR-first: streaming + batch ingest, dbt, Great Expectations, MLflow, Terraform
 - [object_security](https://github.com/EmilAhlberg/object_security) - object security for small IoT packets: encryption, HMAC integrity and replay protection
-- [ETRAX-OSI-stack-server](https://github.com/EmilAhlberg/ETRAX-OSI-stack-server) - TCP/IP stack and HTTP server from scratch in C++ on Axis ETRAX hardware
+- [etrax-tcpip-stack](https://github.com/EmilAhlberg/etrax-tcpip-stack) - TCP/IP stack and HTTP server from scratch in C++ on Axis ETRAX hardware
 - [androidplatformer](https://github.com/EmilAhlberg/androidplatformer) - 2D Android platformer on a hand-written, multi-threaded engine
 
 Most of my professional work lives in private repositories - happy to talk through it.
