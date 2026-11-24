@@ -18,5 +18,3 @@ Before LEGO: Qlik (Go microservices and React micro-frontends in a multi-tenant 
 - [androidplatformer](https://github.com/EmilAhlberg/androidplatformer) - 2D Android platformer on a hand-written, multi-threaded engine
 
 Most of my professional work lives in private repositories - happy to talk through it.
-
-📫 [LinkedIn](https://linkedin.com/in/emil-ahlberg) · emil.ahlberg1@gmail.com
