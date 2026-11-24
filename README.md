@@ -1,20 +1,19 @@
-### Emil Ahlberg
+I'm a senior software engineer at **the LEGO Group**, where I shaped a greenfield partner platform from the ground up. Today, its customer, store and contact capabilities serve 20+ product teams. My work primarily spans backend, data and infrastructure architecture, from domain modeling and API design to event contracts and cloud infrastructure.
 
-Senior Software Engineer at the LEGO Group, based in Lund, Sweden.
+I like getting to the bottom of things. Understanding how systems work, why decisions were made and what could be better. But engineering is rarely a solo effort, and I find just as much satisfaction in learning from others, building relationships and creating something worthwhile together.
 
-Founding engineer on a greenfield partner platform - REST, GraphQL and async APIs on serverless AWS, serving customer, store and contact data to 20+ product teams. Most of my time goes into domain modeling, service boundaries, event contracts and data ownership, plus the engineering standards that let many teams build on one platform.
+M.Sc. in Computer Science and Engineering from Lund University, specialising in network and security. My [master's thesis](https://lup.lub.lu.se/student-papers/record/9024937) explored data-driven feature development and A/B testing.
 
-Before LEGO: Qlik (Go microservices and React micro-frontends in a multi-tenant SaaS), Maersk, Netcompany and Axis. M.Sc. in Computer Science and Engineering from Lund University, specialising in network and security, with a [thesis on data-driven feature development and A/B testing](https://lup.lub.lu.se/student-papers/record/9024937) carried out at Axis.
+**AWS Certified Solutions Architect – Professional** ([2026 credential](https://www.credly.com/badges/29b8d2d9-1c9e-4f1a-aa48-2dd25c233826))
 
-**Work with:** AWS solution architecture · Go · TypeScript · PostgreSQL/Aurora · Databricks · Pulumi/CloudFormation · event-driven architecture · ADRs
+## Beyond the Code
 
-**Certified:** [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/29b8d2d9-1c9e-4f1a-aa48-2dd25c233826) (2026)
+- **Architecture & domain modeling** — Redesigned a business-critical API and established its canonical customer model, documenting decisions and tradeoffs through ADRs.
+- **Cross-team leadership** — Leading the architecture and hands-on implementation of a GenAI initiative, aligning engineering teams and stakeholders around a shared direction.
+- **Engineering effectiveness** — Developed a technical landscape analysis method adopted by staff engineers to improve architectural visibility.
 
-#### On here
+## How I Approach Engineering
 
-- [real-time-lakehouse-platform](https://github.com/EmilAhlberg/real-time-lakehouse-platform) - medallion lakehouse on Databricks + AWS, built ADR-first: streaming + batch ingest, dbt, Great Expectations, MLflow, Terraform
-- [object_security](https://github.com/EmilAhlberg/object_security) - object security for small IoT packets: encryption, HMAC integrity and replay protection
-- [etrax-tcpip-stack](https://github.com/EmilAhlberg/etrax-tcpip-stack) - TCP/IP stack and HTTP server from scratch in C++ on Axis ETRAX hardware
-- [androidplatformer](https://github.com/EmilAhlberg/androidplatformer) - 2D Android platformer on a hand-written, multi-threaded engine
+I value **simplicity, pragmatism, incremental delivery and fast feedback** over unnecessary complexity and dogma. I champion domain-driven design, observability and clear architectural decisions where they add value.
 
-Most of my professional work lives in private repositories - happy to talk through it.
+I believe in ownership, written and transparent communication, and a blameless culture where people can challenge ideas, learn from mistakes and do their best work.
